@@ -15,7 +15,7 @@ Here are some of the technologies and tools I work with:
 * **Back-End:** C#  
 * **Front-End:** Next.js, JavaScript  
 * **Framework:** .NET  
-* **Databases & Data Analitycs:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, PySpark), Power BI, Tableau  
+* **Databases & Data Analytics:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, PySpark), Power BI, Tableau  
 * **Cloud & DevOps:** Azure, AWS, Git, Docker  
 * **Testing:** xUnit  
 
