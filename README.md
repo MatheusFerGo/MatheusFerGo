@@ -12,10 +12,10 @@ I always aim to use my skills to build software that not only works but is also 
 
 Here are some of the technologies and tools I work with:
 
-* **Back-End:** C#, Python (Pandas, NumPy, PySpark)  
+* **Back-End:** C#  
 * **Front-End:** Next.js, JavaScript  
 * **Framework:** .NET  
-* **Databases & BI:** SQL (MySQL, PostgreSQL), Power BI, Tableau  
+* **Databases & Data Analitycs:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, PySpark), Power BI, Tableau  
 * **Cloud & DevOps:** Azure, AWS, Git, Docker  
 * **Testing:** xUnit  
 
