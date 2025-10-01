@@ -1,4 +1,4 @@
-# Hello, I'm Matheus! 👋
+# Hi, I'm Matheus! 👋
 
 ### About Me
 
