@@ -29,7 +29,7 @@ I am currently focused on deepening my knowledge in software architecture throug
 
 ### 🌱 Projects I'm working on
 
-I am developing a few study projects: **BarberBoss API** and **CashFlow API**. 
+I am developing a few study projects: **[BarberBoss API](https://github.com/MatheusFerGo/BarberBoss)** and **[CashFlow API](https://github.com/MatheusFerGo/CashFlow)**. 
 These are complete RESTful APIs in .NET designed to apply my knowledge in layered architecture, DDD, and unit testing in a real-world scenario.  
 It has been an incredible challenge where I was able to manage the entire project lifecycle — from conception to deployment on Azure.  
 
