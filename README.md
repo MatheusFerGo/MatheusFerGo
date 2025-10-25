@@ -1,5 +1,11 @@
 # Hi, I'm Matheus! 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-fernandes-gomes/">
+    <img alt="Siga-me no LinkedIn" src="https://img.shields.io/badge/LinkedIn-SeuNome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 ### About Me
 
 I work with technology by combining two passions: software development and data analysis. My journey has taken me from creating Python automations that optimize daily business routines to building robust APIs with .NET.  
