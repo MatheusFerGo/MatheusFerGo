@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-fernandes-gomes/">
-    <img alt="Siga-me no LinkedIn" src="https://img.shields.io/badge/LinkedIn-SMatheus Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Siga-me no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
