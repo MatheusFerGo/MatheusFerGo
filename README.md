@@ -35,9 +35,8 @@ I am currently focused on deepening my knowledge in software architecture throug
 
 ### 🌱 Projects I'm working on
 
-I am developing a few study projects: **[BarberBoss API](https://github.com/MatheusFerGo/BarberBoss)** and **[CashFlow API](https://github.com/MatheusFerGo/CashFlow)**. 
-These are complete RESTful APIs in .NET designed to apply my knowledge in layered architecture, DDD, and unit testing in a real-world scenario.  
-It has been an incredible challenge where I was able to manage the entire project lifecycle — from conception to deployment on Azure.  
+I am developing a few study projects: **[LeetSync](https://github.com/MatheusFerGo/LeetSync)** and **[FIAP - TechChallenge Fase 05](https://github.com/MatheusFerGo/CustomerServiceTest)**. 
+LeetSync is my personal hub for continuous evolution in algorithms and data structures. It serves as a synchronized repository for my LeetCode solutions across multiple languages (C#, Python, and SQL), focused on maintaining a clean, automated, and organized history of my problem-solving journey. CustomerServiceTest id a robust RESTful API developed as part of my Postgraduate journey. This project serves as a laboratory for Domain-Driven Design (DDD), layered architecture, and comprehensive unit testing.
 
 ---
 
