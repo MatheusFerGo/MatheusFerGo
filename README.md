@@ -35,8 +35,9 @@ I am currently focused on deepening my knowledge in software architecture throug
 
 ### 🌱 Projects I'm working on
 
-I am developing a few study projects: **[LeetSync](https://github.com/MatheusFerGo/LeetSync)** and **[FIAP - TechChallenge Fase 05](https://github.com/MatheusFerGo/CustomerServiceTest)**. 
-LeetSync is my personal hub for continuous evolution in algorithms and data structures. It serves as a synchronized repository for my LeetCode solutions across multiple languages (C#, Python, and SQL), focused on maintaining a clean, automated, and organized history of my problem-solving journey. CustomerServiceTest id a robust RESTful API developed as part of my Postgraduate journey. This project serves as a laboratory for Domain-Driven Design (DDD), layered architecture, and comprehensive unit testing.
+I am developing a few study projects: **[LeetSync](https://github.com/MatheusFerGo/LeetSync)** - My personal hub for continuous evolution in algorithms and data structures. It serves as a synchronized repository for my LeetCode solutions across multiple languages (C#, Python, and SQL), focused on maintaining a clean, automated, and organized history of my problem-solving journey.
+
+and **[FIAP - TechChallenge Fase 05](https://github.com/MatheusFerGo/CustomerServiceTest)** - is a robust RESTful API developed as part of my Postgraduate journey. This project serves as a laboratory for Domain-Driven Design (DDD), layered architecture, and comprehensive unit testing.
 
 ---
 
