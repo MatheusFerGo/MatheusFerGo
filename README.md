@@ -1,49 +1,75 @@
-# Hi, I'm Matheus! 👋
+# Oi, eu sou o Matheus 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-fernandes-gomes/">
-    <img alt="Siga-me no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+**Desenvolvedor Full Stack .NET (foco em backend)** | C# · ASP.NET Core · React/Next.js · SQL · Azure
 
-### About Me
+Venho de mais de 4 anos em dados e automação (SQL, Python, ETL) na Fundação Dom Cabral e hoje construo APIs e microsserviços em .NET e interfaces web com React/Next.js, com testes automatizados e infraestrutura como código. Pós-graduado em Arquitetura de Software pela FIAP.
 
-I work with technology by combining two passions: software development and data analysis. My journey has taken me from creating Python automations that optimize daily business routines to building robust APIs with .NET.  
+📍 São Paulo, SP · Aberto a vagas de desenvolvedor .NET (júnior/pleno), presencial, híbrido ou remoto.
 
-I always aim to use my skills to build software that not only works but is also intuitive and improves people’s lives, while staying in life-long-learning mode. For me, every new project is an opportunity to evolve, discover new technologies, and become a better professional. I believe that the best solution is one that is elegant, simple, efficient, and solves a real problem. That’s why I dedicate myself to studying and applying best practices such as **SOLID**, **Clean Code**, and **DDD** in everything I do.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-gomes/)
 
 ---
 
-### 🛠️ Technical Skills
+## 🚀 Projetos em destaque
 
-Here are some of the technologies and tools I work with:
+- **[LeetSync](https://github.com/MatheusFerGo/LeetSync)** *(em andamento)*
+  Soluções de LeetCode em C#, Python e SQL, organizadas por linguagem e dificuldade, com workflow automatizado de commits e geração do README.
 
-* **Back-End:** C#  
-* **Front-End:** Next.js, JavaScript  
-* **Framework:** .NET  
-* **Databases & Data Analytics:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, PySpark), Power BI, Tableau  
-* **Cloud & DevOps:** Azure, AWS, Git, Docker  
-* **Testing:** xUnit  
+- **[Esquilo](https://github.com/MatheusFerGo/Esquilo)** *(em andamento)*
+  App de finanças pessoais com IA para o mercado brasileiro: backend em C# e ASP.NET Core como monólito modular (DDD e Clean Architecture), app em React Native com Expo, implantação em Docker e Kubernetes na Azure e LGPD desde o início.
+
+- **[target-desafio-tecnico](https://github.com/MatheusFerGo/target-desafio-tecnico)**
+  Resolução de desafio técnico em C# (.NET 9) com princípios SOLID, commits organizados por questão, 63 testes xUnit e 100% de cobertura de linhas e ramos.
+
+- **[NotificationService](https://github.com/MatheusFerGo/NotificationService)**
+  API de notificações em C#/.NET, containerizada com Docker e com pipeline de CI/CD no GitHub Actions. Desenvolvida no hackathon da FIAP.
+
+- **[AZ-204-Exam-Practice](https://github.com/MatheusFerGo/AZ-204-Exam-Practice)** *(em andamento)*
+  Prática de desenvolvimento em Azure com C#.
+
+- **[simulador-bancos-dados](https://github.com/MatheusFerGo/simulador-bancos-dados)**
+  Laboratório interativo em Python que compara desempenho e padrões arquiteturais de bancos SQL, NoSQL, grafos, chave-valor e séries temporais.
+
+- **[CashFlow](https://github.com/MatheusFerGo/CashFlow)**
+  API REST em .NET 8 para gestão de despesas pessoais, com DDD, Entity Framework, MySQL, Swagger, testes unitários e relatórios em PDF e Excel.
+
+<!--
+BLOCOS PARA ATIVAR DEPOIS (apague esta linha e as marcas de comentário quando o repositório estiver público):
+
+
+- **[Tech Challenge FIAP: sistema de autoatendimento]([LINK-DO-REPOSITORIO])**
+  Sistema que evoluiu, ao longo da pós, de um monólito (DDD e Arquitetura Hexagonal) até microsserviços em .NET 9. Testes de unidade e integração (xUnit/Moq), PostgreSQL e MongoDB, Terraform na Azure, AKS, Azure Service Bus, integração de pagamentos e CI/CD com GitHub Actions.
+-->
 
 ---
 
-### 📚 What am I currently studying?
+## 🛠️ Stack
 
-I am currently focused on deepening my knowledge in software architecture through my **Postgraduate Studies at FIAP** and training at **Rocketseat**.  
+- **Back-end:** C#, .NET 8/9/10, ASP.NET Core Web API, Entity Framework Core, Swagger
+- **Front-end:** JavaScript, Next.js (React), HTML, CSS
+- **Arquitetura:** DDD, Clean Architecture, Arquitetura Hexagonal, SOLID, microsserviços
+- **Dados e BI:** PostgreSQL, SQL Server, MySQL, MongoDB, Python (Pandas, NumPy, PySpark), ETL, Power BI, Tableau
+- **Cloud e DevOps:** Azure (AKS, Service Bus), Terraform, Docker, Kubernetes, GitHub Actions
+- **Testes:** xUnit, Moq
 
----
+## 🧭 Roadmap: próximos projetos
 
-### 🌱 Projects I'm working on
+Cada item vira projeto com código público e é marcado aqui quando estiver pronto.
 
-I am developing a few study projects:
+- [ ] React com TypeScript
+- [ ] Autenticação e autorização (JWT / ASP.NET Identity)
+- [ ] Cache com Redis
+- [ ] Azure DevOps Pipelines
+- [ ] Application Insights e Azure Key Vault
+- [ ] Front-end com Angular
+- [ ] Front-end com Blazor
+- [ ] Deploy na AWS
+- [ ] Certificação Azure AI-200
 
-**[LeetSync](https://github.com/MatheusFerGo/LeetSync)** - My personal hub for continuous evolution in algorithms and data structures. It serves as a synchronized repository for my LeetCode solutions across multiple languages (C#, Python, and SQL), focused on maintaining a clean, automated, and organized history of my problem-solving journey.
+## 📊 De onde eu venho
 
-**[FIAP - Techchallenge](https://github.com/MatheusFerGo/CustomerServiceTest)** - is a robust RESTful API developed as part of my Postgraduate journey. This project serves as a laboratory for Domain-Driven Design (DDD), layered architecture, and comprehensive unit testing. Is also a microservice, part of ControlePedidos repository.
+Na Fundação Dom Cabral, desde 2022, automatizo processos com Python e SQL: rotinas de ETL e dashboards em Power BI e Tableau que eliminaram trabalho manual recorrente. Essa base em dados é o que levo para o desenvolvimento, principalmente em sistemas do setor financeiro.
 
----
+## 🗣️ Idiomas
 
-### 🎤 Languages I speak
-
-My native language is **Portuguese**, and I also speak **English** at an advanced level (C1) and **Spanish** at an intermediate level (B1).  
-We can easily communicate in any of these three languages!
+Português (nativo) · Inglês (C1) · Espanhol (B1)
